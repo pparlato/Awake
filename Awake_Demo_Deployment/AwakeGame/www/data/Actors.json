@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"MainCharacter1_Battler","characterIndex":0,"characterName":"MainCharacter2_Face","classId":1,"equips":[5,0,0,3,0],"faceIndex":0,"faceName":"MainCharacter1_Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sylus","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"ClientDreamBattler1","characterIndex":0,"characterName":"ClientDreamWalk1","classId":2,"equips":[2,1,0,5,0],"faceIndex":0,"faceName":"ClientDreamFace1","traits":[],"initialLevel":3,"maxLevel":99,"name":"Marshall","nickname":"","note":"","profile":""}
+]
